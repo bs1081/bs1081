@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bs1081
+- 👋 Hi, I’m @bs28
 - 👀 I’m interested in Interaction Design
 - 🌱 I’m currently learning Java Script
 
